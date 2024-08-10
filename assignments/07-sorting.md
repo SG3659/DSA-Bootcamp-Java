@@ -9,10 +9,10 @@
 # Questions
 
 ## Easy
-- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-- [Majority Element](https://leetcode.com/problems/majority-element/)
-- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [Missing Number](https://leetcode.com/problems/missing-number/)
+- [Merge Sorted Array d](https://leetcode.com/problems/merge-sorted-array/)
+- [Majority Element d](https://leetcode.com/problems/majority-element/)
+- [Contains Duplicate d](https://leetcode.com/problems/contains-duplicate/)
+- [Missing Number d](https://leetcode.com/problems/missing-number/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
